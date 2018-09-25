@@ -1,0 +1,14 @@
+__pycache__
+test.py
+*.pyc
+*.swp
+*.swo
+.python-version
+*.txt
+*.csv
+*.bin
+*.log
+*.tfrecords
+*.npy
+fb_setting.py
+data/*
